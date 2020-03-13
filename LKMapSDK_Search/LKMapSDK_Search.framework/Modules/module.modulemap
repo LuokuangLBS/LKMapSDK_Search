@@ -1,0 +1,6 @@
+framework module LKMapSDK_Search {
+  umbrella header "LKMapSDK_Search.h"
+
+  export *
+  module * { export * }
+}
